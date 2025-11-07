@@ -1,0 +1,5 @@
+{
+  "name": "Copy of เวรยาม - Medical Shift Scheduler",
+  "description": "An intelligent medical staff shift scheduling assistant powered by Gemini. Input your personnel, shifts, and constraints to generate a balanced and fair work schedule in seconds.",
+  "requestFramePermissions": []
+}
